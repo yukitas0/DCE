@@ -4,11 +4,11 @@ Este repositorio contiene las prácticas realizadas en la asignatura de Diseño 
 
 ## Contenido
 
-- [Práctica 1: Introducción a Arduino](/Practica1)
-- [Práctica 2: Sensores y Actuadores Básicos](/Practica2)
-- [Práctica 3: Comunicación Serial](/Practica3)
-- [Práctica 4: Control de Servomotores](/Practica4)
-- [Práctica 5: Interfaz con Displays](/Practica5)
+- [Práctica 1: Introducción a Arduino](/P1)
+- [Práctica 2: Sensores y Actuadores Básicos](/P2)
+- [Práctica 3: Comunicación Serial](/P3)
+- [Práctica 4: Control de Servomotores](/P4)
+
 
 Cada carpeta de práctica incluye:
 
