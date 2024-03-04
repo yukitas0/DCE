@@ -108,7 +108,16 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="MACROS.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="main.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PARAMETERS.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PORTS.h">
       <SubType>compile</SubType>
     </Compile>
   </ItemGroup>
